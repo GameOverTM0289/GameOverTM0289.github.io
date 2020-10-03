@@ -1,0 +1,115 @@
+/******************
+******** CSS
+*******************/
+
+html, body {
+    color: #ffffff;
+    background: rgb(48, 48, 48);
+}
+
+
+#main {
+    text-align: center;
+    border-bottom: 3px solid white;
+    padding-bottom: 20px;
+}
+
+#title h1 {
+    letter-spacing: 2px;
+    font-size: 64px;
+    font-weight: 700;
+    border: 5px dotted white;
+    border-radius: 30px;
+    padding: 10px 0px;
+    background-color: rgb(122, 37, 37);
+}
+
+#title p {
+    font-size: 24px;
+    font-weight: 400;
+    letter-spacing: 2;
+    
+}
+
+#title {
+    padding-bottom: 15px;
+}
+
+#image {
+    width: 100%;
+    height: auto;
+    max-width: 625px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+#img-caption {
+    font-size: 22px;
+    font-style: italic;
+    letter-spacing: 2;
+}
+
+#tribute-info {
+    margin-top: 50px;
+    text-align: center;
+}
+
+#tribute-info h1 {
+    font-size: 60px;
+    letter-spacing: 2px;
+    font-weight: 700;
+    border: 5px dotted white;
+    border-radius: 30px;
+    padding: 10px 0px;
+    background-color: rgb(122, 37, 37);
+}
+
+#tribute-info p {
+    font-size: 26px;
+    padding-bottom: 40px;
+}
+
+#tribute-info a {
+    color: #fff;
+    text-decoration: underline;
+}
+
+.pac-timeline ul {
+    font-size: 64px;
+    padding-right: 20px;
+    border-bottom: 1px solid rgb(255, 0, 0);
+    margin-bottom: 20px;
+
+}
+.pac-timeline li {
+    margin-right: 20px;
+    font-size: 24px;
+    color: rgb(226, 226, 226);
+    letter-spacing: 1px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+.ul-container {
+    border: none !important;
+}
+
+.footer {
+    margin-top: 100px;
+    border-top: 1px solid white;
+}
+
+.footer p {
+    margin-top: 50px;
+    margin-bottom: 30px;
+    color: rgb(197, 197, 197);
+}
+
+.footer p a {
+    color: rgb(197, 197, 197) !important;
+}
+
+.footer p a:hover {
+    color: white !important;
+}
