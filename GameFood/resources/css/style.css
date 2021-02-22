@@ -91,7 +91,7 @@ h3 {
     font-size: 110%;
     margin-bottom: 15px;
     color: #e67e22;
-    
+    font-weight: bold;
 }
 
 h2:after {
@@ -117,7 +117,7 @@ h2:after {
 .box p {
     font-size: 90%;
     line-height: 145%;
-    font-weight: 200;
+    font-weight: bold;
 }
 
 
