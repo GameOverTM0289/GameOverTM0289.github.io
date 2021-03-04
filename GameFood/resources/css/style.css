@@ -378,7 +378,6 @@ header {
 .meals-showcase {
     list-style: none;
     width: 100%;
-    margin-bottom: -18px;
 }
 
 
@@ -386,6 +385,7 @@ header {
     display: block;
     float: left;
     width: 25%; /* sepse 25 shumzim 4 = 100 */
+    margin-bottom: -18px;
 }
 
 .meal-photo {
